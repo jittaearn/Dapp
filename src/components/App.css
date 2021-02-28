@@ -1,1 +1,10 @@
-/* Styles go here */
+body {
+    background-color: rgb(255, 228, 249);
+    color: rgb(255, 133, 154);
+  }
+
+.btn {
+    background-color: pink;
+    border-color: none;
+    color: rgb(192, 77, 77);
+}
